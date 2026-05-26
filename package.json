@@ -15,7 +15,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.76.1",
-    "vanguard-emboss-uikit": "./vendor/vanguard-emboss-uikit-0.5.1.tgz"
+    "vanguard-emboss-uikit": "https://github.com/Dream-Pixels-Forge/vanguard-emboss-uikit-website/releases/download/deps-v0.5.1/vanguard-emboss-uikit-0.5.1.tgz"
   },
   "devDependencies": {
     "@types/react": "^18.2.0",
