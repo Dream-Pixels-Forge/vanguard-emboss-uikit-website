@@ -1,0 +1,26 @@
+/* Import Vanguard Emboss UI Kit design tokens and styles */
+@import 'vanguard-emboss-uikit/styles';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ─── Smooth Scrolling ─── */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ─── Section Spacing ─── */
+.section-container {
+  @apply mx-auto max-w-6xl px-4 sm:px-6 lg:px-8;
+}
+
+/* ─── Code Block Styling ─── */
+.code-block {
+  @apply rounded-lg bg-emboss-bg-light dark:bg-emboss-bg-dark px-4 py-3 text-sm font-mono;
+  box-shadow: inset 3px 3px 6px rgb(203, 210, 219), inset -3px -3px 6px rgb(255, 255, 255);
+}
+
+.dark .code-block {
+  box-shadow: inset 3px 3px 6px rgb(19, 23, 28), inset -3px -3px 6px rgb(53, 61, 74);
+}
