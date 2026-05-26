@@ -1,5 +1,8 @@
 # vanguard-emboss-uikit-website
 
+<img width="1920" height="1080" alt="Screenshot from 2026-05-26 12-19-02" src="https://github.com/user-attachments/assets/5bcc3197-f7d7-41c6-b443-db9b19f3f98d" />
+
+
 Documentation and landing website for [vanguard-emboss-uikit](https://github.com/Dream-Pixels-Forge/vanguard-emboss-uikit) — a premium neumorphic React component library.
 
 **Built with its own components.** Every section demonstrates a component from the library.
@@ -26,6 +29,10 @@ pnpm preview # preview production build
 - **GitHub:** [Dream-Pixels-Forge/vanguard-emboss-uikit-website](https://github.com/Dream-Pixels-Forge/vanguard-emboss-uikit-website)
 - **UI Kit:** [Dream-Pixels-Forge/vanguard-emboss-uikit](https://github.com/Dream-Pixels-Forge/vanguard-emboss-uikit)
 
+
+<img width="1920" height="1080" alt="Screenshot from 2026-05-26 12-19-53" src="https://github.com/user-attachments/assets/7989121f-cd6c-4d53-b4f4-48969163ce31" />
+
+
 ## 📦 Sections
 
 | Section       | Components Shown                                      |
@@ -40,6 +47,10 @@ pnpm preview # preview production build
 | Feedback      | Alert (4 variants), Dialog, Toast                      |
 | Progress      | Progress bar, ProgressCircle, Spinner                  |
 | Interactive   | TiltCard (3 intensity levels)                          |
+
+
+<img width="1920" height="1080" alt="Screenshot from 2026-05-26 12-20-32" src="https://github.com/user-attachments/assets/70029d1c-24f9-46ad-99ff-dac08a2e8bbe" />
+
 
 ## 🧩 Tech Stack
 
